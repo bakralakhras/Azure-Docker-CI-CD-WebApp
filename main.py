@@ -35,7 +35,7 @@ async def read_items():
     return items
 
 
-@app.get("/items/{name}", response_model=Item)
+@app.get("/yo/{name}", response_model=Item)
 async def read_item(name: str):
     item = await collection.find_one({"name": name})
     if item is None:

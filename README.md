@@ -1,6 +1,6 @@
-# Web 1.0 Project
+# Azure-Docker-CI-CD-WebApp
 
-The Web 1.0 project is a cloud-based web application that demonstrates the use of **Docker** and **Azure** for deployment. This project showcases modern DevOps practices through the use of **GitHub Actions** for CI/CD.
+The project is a cloud-based web application that demonstrates the use of **Docker** and **Azure** for deployment. This project showcases modern DevOps practices through the use of **GitHub Actions** for CI/CD.
 
 ## Technologies Used
 - **Docker**: Containerization technology to create a consistent runtime environment for the application.
